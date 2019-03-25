@@ -1,0 +1,11 @@
+c:\users\kássia\documents\visual studio 2015\Projects\Sistema1\Sistema1\bin\Debug\Sistema1.exe.config
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\Sistema1\Sistema1\bin\Debug\Sistema1.exe
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\Sistema1\Sistema1\bin\Debug\Sistema1.pdb
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\Sistema1\Sistema1\obj\Debug\Sistema1.csprojResolveAssemblyReference.cache
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\Sistema1\Sistema1\obj\Debug\Sistema1.Form1.resources
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\Sistema1\Sistema1\obj\Debug\Sistema1.Properties.Resources.resources
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\Sistema1\Sistema1\obj\Debug\Sistema1.csproj.GenerateResource.Cache
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\Sistema1\Sistema1\obj\Debug\Sistema1.exe
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\Sistema1\Sistema1\obj\Debug\Sistema1.pdb
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\Sistema1\Sistema1\obj\Debug\Sistema1.FormClientes.resources
+C:\Users\Kássia\Documents\Visual Studio 2015\Projects\Sistema1\Sistema1\obj\Debug\Sistema1.FormFuncionario.resources
